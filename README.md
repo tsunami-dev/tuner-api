@@ -106,8 +106,5 @@ Add functionality where if a user goes to
 
 - `/songs?order=asc` it will organize the songs alphabetically
 - `/songs?order=desc` it will organize the songs in reverse alphabetical order
-- `/songs?mistakes=true` it will only show the songs where the value of `mistakesWereMadeToday` is true
-- `/songs?mistakes=false` it will only show the songs where the value of `mistakesWereMadeToday` is false
-- `/songs?lastCrisis=gt10` it will return all the songs where the `daysSinceLastCrisis`is **g**reater **t**than 10
-- `/songs?lastCrisis=gte20`it will return all the songs where the `daysSinceLastCrisis`is **g**reater **t**than or **e**qual to 20
-- `/songs?lastCrisis=lte5`it will return all the songs where the `daysSinceLastCrisis`is **l**ess **t**than or **e**qual to 5
+- `/songs?is_favorite=true` it will only show the songs where the value of `is_favorite` is true
+- `/songs?is_favorite=false` it will only show the songs where the value of `is_favorite` is false
