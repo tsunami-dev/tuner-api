@@ -2,7 +2,7 @@
 
 Let's make our own music playlist app!
 
-<iframe src="https://giphy.com/embed/4T7zBzdeNEtjThYDWn" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vinyl-record-4T7zBzdeNEtjThYDWn">via GIPHY</a></p>
+![](https://media4.giphy.com/media/4T7zBzdeNEtjThYDWn/giphy.gif?cid=790b76114ee03ef7f860492a9083d77f86191a7bf340002c&rid=giphy.gif&ct=g)
 
 ## Multiple Session Lab/Activity
 
