@@ -82,7 +82,7 @@ Be sure to set up appropriate error handling, so that you can have more helpful 
 
 ## Part 3
 
-Do not start Part 3 until your show and create routes pass all its tests. If you are stuck, be sure to ask for help.
+Do not start Part 3 until your show and create routes work as expected. If you are stuck, be sure to ask for help.
 
 |  #  |   Action    |    URL     | HTTP Verb |    CRUD    |  Description  |
 | :-: | :---------: | :--------: | :-------: | :--------: | :-----------: |
