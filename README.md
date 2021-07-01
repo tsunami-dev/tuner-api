@@ -28,6 +28,8 @@ If you feel like you are falling behind, reach out to an instructor.
 
 ## Part 1
 
+- fork and clone this repo
+
 - Get a basic express app working
 
 - Then implement the index route that uses pg-promise to query your db
