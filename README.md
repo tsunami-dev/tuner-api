@@ -112,7 +112,7 @@ Add functionality where if a user goes to
 - `/songs?is_favorite=false` it will only show the songs where the value of `is_favorite` is false
 
 
-## BONUS Part 5 [Part 4 is a React App, see other repo](https://github.com/joinpursuit/tuner-full-stack-app/blob/main/README-FE.md)
+## BONUS Part 5 [Part 4 is a React App, see other repo](https://github.com/joinpursuit/tuner-react)
 
 - Build a One-to-Many so that `One Playlist has many songs` for both the back and front end
 - Build a One-to-Many so that `One Album has many songs` for both the front end and the back end
