@@ -17,5 +17,9 @@ app.get("/", (req, res) => {
   res.send("Welcome to the Tuner App");
 });
 
+app.get("*", (req, res) => {
+    res.status(404).send("Page not found");
+});
+
 // EXPORT
 module.exports = app;
