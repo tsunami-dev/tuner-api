@@ -1,7 +1,7 @@
 const express = require("express");
 const songs = express.Router();
 const {
-  getAllsongs,
+  getAllSongs,
   getSong,
   createSong,
   deleteSong,
@@ -11,7 +11,7 @@ const { checkName, checkBoolean } = require("../validations/checkSongs");
 
 // READ ROUTE to read all resources.
 songs.get("/", async (req, res) => {
-  const allSongs = await getAllsongs();
+  const allSongs = await getAllSongs();
   if (allSongs[0]) {
     res.status(200).json(allSongs);
   } else {
